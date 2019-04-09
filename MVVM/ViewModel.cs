@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 
-namespace PasswordGen
+namespace MVVM
 {
     public class ViewModel : INotifyPropertyChanged
     {
